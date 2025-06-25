@@ -1,0 +1,11 @@
+Jacket = 250
+short  = 120
+T_shirt = 300
+print("Jacket=" , Jacket , "EGP")
+print("Short=" , short , "EGP" )
+print("T_shirt=" , T_shirt , "EGP")
+sum = Jacket + short + T_shirt
+print("Total cost=" , sum , "EGP")
+Budget = 700
+print("Budget=" , Budget , "EGP")
+print("Money Remained=" , Budget - sum , "EGP")
